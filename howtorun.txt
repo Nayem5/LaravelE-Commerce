@@ -1,0 +1,6 @@
+cd projectLaravel;
+cd Appplication;
+php artisan serve;
+
+open xampp;
+run apache,mysql;
